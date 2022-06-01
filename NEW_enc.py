@@ -1,4 +1,4 @@
-#Encoded By : Bilal Haider ID
+#Encoded By : TLYAK
 #Encryption : Py3 Marshal
 #Py3 Version : 3.10.4
 
